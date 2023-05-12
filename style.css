@@ -7,9 +7,19 @@
 #red {
     color: red;
 }
+#blue {
+    color: blue;
+}
 #white {
     background-color: white;
 }
 #darkblue {
     color: #1000a0fe;
+}
+#style1 {
+    font-size: 20px;
+    color: red;
+}
+#style2 {
+    font-size: 150px;
 }
